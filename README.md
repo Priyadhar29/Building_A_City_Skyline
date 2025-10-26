@@ -6,7 +6,6 @@ A creative **CSS art project** that recreates a beautiful skyline using **HTML a
 
 ## 🌐 Live Demo
 [Click here to view the live demo](https://priyadhar29.github.io/Building_A_City_Skyline/)  
-*(Replace `#` with your GitHub Pages link once deployed)*
 
 ---
 
